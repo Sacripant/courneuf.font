@@ -5,14 +5,14 @@ FamilyName: Courneuf
 Weight: Outline
 Copyright: Created by Thomas jund @_sacripant with FontForge 2.0 (http://fontforge.sf.net)
 UComments: "2013-1-15: Created."
-Version: 001.001
+Version: 001.101
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 45
 Ascent: 700
 Descent: 200
 InvalidEm: 0
-sfntRevision: 0x00010000
+sfntRevision: 0x0001199a
 LayerCount: 2
 Layer: 0 0 "Arri+AOgA-re" 1
 Layer: 1 0 "Avant" 0
@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1358273878
-ModificationTime: 1421692597
+ModificationTime: 1421692665
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -468,6 +468,7 @@ Flags: W
 LayerCount: 2
 Back
 Fore
+Validated: 1
 EndChar
 
 StartChar: i
@@ -3932,9 +3933,9 @@ StartChar: hyphen
 Encoding: 45 45 67
 Width: 400
 VWidth: 0
-Flags: HW
-HStem: 200 25<25 300> 275 25<25 300>
-VStem: 0 25<225 275> 300 25<225 275>
+Flags: W
+HStem: 200 25<25 275> 275 25<25 275>
+VStem: 0 25<225 275> 275 25<225 275>
 LayerCount: 2
 Back
 Fore
@@ -3950,6 +3951,7 @@ SplineSet
  25 225 l 1
  275 225 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: period
@@ -5283,31 +5285,33 @@ StartChar: six
 Encoding: 54 54 90
 Width: 400
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 25<125 175> 75 25<125 175> 100 25<25 75 225 275> 275 25<225 275> 300 25<100 175> 375 25<100 175> 475 25<25 75> 500 25<125 275> 575 25<125 275>
+VStem: 0 25<125 475> 75 25<125 300 400 475> 100 25<25 75 525 575> 175 25<25 75 325 375> 200 25<125 275> 275 25<125 275 525 575>
 LayerCount: 2
 Back
 Fore
 SplineSet
-100 600 m 1
+100 600 m 1x85d2
  300 600 l 1
  300 500 l 1
  100 500 l 1
- 100 600 l 1
+ 100 600 l 1x85d2
 275 525 m 1
  275 575 l 1
  125 575 l 1
  125 525 l 1
  275 525 l 1
-100 400 m 1
+100 400 m 1xade2
  200 400 l 1
  200 300 l 1
- 100 300 l 1
+ 100 300 l 1xade6
  100 100 l 1
  0 100 l 1
  0 500 l 1
- 100 500 l 1
- 100 400 l 1
-175 325 m 1
+ 100 500 l 1xadd2
+ 100 400 l 1xade2
+175 325 m 1xaeea
  175 375 l 1
  75 375 l 1
  75 475 l 1
@@ -5315,27 +5319,27 @@ SplineSet
  25 125 l 1
  75 125 l 1
  75 325 l 1
- 175 325 l 1
-200 300 m 1
+ 175 325 l 1xaeea
+200 300 m 1xacc6
  300 300 l 1
  300 100 l 1
  200 100 l 1
- 200 300 l 1
+ 200 300 l 1xacc6
 275 125 m 1
  275 275 l 1
- 225 275 l 1
+ 225 275 l 1xb4c6
  225 125 l 1
  275 125 l 1
-100 100 m 1
+100 100 m 1xa4d6
  200 100 l 1
  200 0 l 1
  100 0 l 1
- 100 100 l 1
-175 25 m 1
+ 100 100 l 1xa4d6
+175 25 m 1xc4da
  175 75 l 1
  125 75 l 1
  125 25 l 1
- 175 25 l 1
+ 175 25 l 1xc4da
 EndSplineSet
 Validated: 5
 EndChar
@@ -5344,7 +5348,9 @@ StartChar: colon
 Encoding: 58 58 91
 Width: 300
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 25<125 175> 75 25<125 175> 200 25<125 175> 275 25<125 175>
+VStem: 100 25<25 75 225 275> 175 25<25 75 225 275>
 LayerCount: 2
 Back
 Fore
@@ -5370,22 +5376,25 @@ SplineSet
  125 25 l 1
  175 25 l 1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: semicolon
 Encoding: 59 59 92
 Width: 300
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -200 25<25 75> -125 25<25 75> -100 25<125 175> 75 25<125 175> 200 25<125 175> 275 25<125 175>
+VStem: 0 25<-175 -125> 75 25<-175 -125> 100 25<-75 75 225 275> 175 25<-75 75 225 275>
 LayerCount: 2
 Back
 Fore
 SplineSet
-100 100 m 1
+100 100 m 1xbec0
  200 100 l 1
  200 -100 l 1
  100 -100 l 1
- 100 100 l 1
+ 100 100 l 1xbec0
 175 -75 m 1
  175 75 l 1
  125 75 l 1
@@ -5396,29 +5405,32 @@ SplineSet
  100 -100 l 1
  100 -200 l 1
  0 -200 l 1
-25 -125 m 1
+25 -125 m 1xdf40
  25 -175 l 1
  75 -175 l 1
  75 -125 l 1
- 25 -125 l 1
-100 300 m 1
+ 25 -125 l 1xdf40
+100 300 m 1x9ec0
  200 300 l 1
  200 200 l 1
  100 200 l 1
- 100 300 l 1
+ 100 300 l 1x9ec0
 175 225 m 1
  175 275 l 1
  125 275 l 1
  125 225 l 1
  175 225 l 1
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: underscore
 Encoding: 95 95 93
 Width: 500
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: -100 25<25 375> -25 25<25 375>
+VStem: 0 25<-75 -25> 375 25<-75 -25>
 LayerCount: 2
 Back
 Fore
@@ -5434,63 +5446,66 @@ SplineSet
  25 -75 l 5
  375 -75 l 5
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: oe
 Encoding: 339 339 94
 Width: 600
 VWidth: 0
-Flags: HW
+Flags: W
+HStem: 0 25<125 175 325 475> 75 25<125 175 325 475> 100 25<25 75 225 275> 200 25<300 475> 275 25<25 75 225 300> 300 25<125 175> 375 25<125 175 325 475>
+VStem: 0 25<125 275> 75 25<125 275> 100 25<25 75 325 375> 175 25<25 75 325 375> 200 25<125 275> 275 25<125 200> 300 25<25 75 300 375> 475 25<25 75 225 375>
 LayerCount: 2
 Back
 Fore
 SplineSet
-100 300 m 1
+100 300 m 1xb742
  100 100 l 1
  0 100 l 1
  0 300 l 1
- 100 300 l 1
+ 100 300 l 1xb742
 25 125 m 1
  75 125 l 1
  75 275 l 1
- 25 275 l 1
+ 25 275 l 1xbb82
  25 125 l 1
-200 300 m 1
+200 300 m 1x9752
  100 300 l 1
  100 400 l 1
  200 400 l 1
- 200 300 l 1
+ 200 300 l 1x9752
 125 375 m 1
  125 325 l 1
  175 325 l 1
- 175 375 l 1
+ 175 375 l 1x9762
  125 375 l 1
-100 100 m 1
+100 100 m 1xb352
  200 100 l 1
  200 0 l 1
  100 0 l 1
- 100 100 l 1
-175 25 m 1
+ 100 100 l 1xb352
+175 25 m 1xd362
  175 75 l 1
  125 75 l 1
  125 25 l 1
- 175 25 l 1
-300 400 m 1
+ 175 25 l 1xd362
+300 400 m 1x9b16
  500 400 l 1
  500 200 l 1
- 300 200 l 1
+ 300 200 l 1x9b0a
  300 100 l 1
  200 100 l 1
- 200 300 l 1
+ 200 300 l 1xb716
  300 300 l 1
- 300 400 l 1
+ 300 400 l 1x9b16
 475 225 m 1
  475 375 l 1
  325 375 l 1
- 325 275 l 1
+ 325 275 l 1xbb06
  225 275 l 1
  225 125 l 1
- 275 125 l 1
+ 275 125 l 1xbb1a
  275 225 l 1
  475 225 l 1
 300 0 m 1
@@ -5498,34 +5513,37 @@ SplineSet
  500 100 l 1
  500 0 l 1
  300 0 l 1
-475 75 m 1
+475 75 m 1xd306
  325 75 l 1
  325 25 l 1
  475 25 l 1
- 475 75 l 1
+ 475 75 l 1xd306
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: ae
 Encoding: 230 230 95
 Width: 600
 VWidth: 0
-Flags: HWO
+Flags: W
+HStem: 0 25<25 475> 75 25<300 475> 175 25<25 200> 200 25<300 475> 275 25<225 300> 300 25<125 175> 375 25<125 175 325 475>
+VStem: 0 25<25 175> 100 25<325 375> 175 25<325 375> 200 25<200 275> 275 25<100 200> 300 25<300 375> 475 25<25 75 225 375>
 LayerCount: 2
 Back
 Fore
 SplineSet
-200 400 m 1
+200 400 m 1xc7a4
  200 300 l 1
  100 300 l 1
  100 400 l 1
- 200 400 l 1
-175 325 m 1
+ 200 400 l 1xc7a4
+175 325 m 1xc7c4
  175 375 l 1
  125 375 l 1
  125 325 l 1
- 175 325 l 1
-300 400 m 1
+ 175 325 l 1xc7c4
+300 400 m 1xcbac
  500 400 l 1
  500 200 l 1
  300 200 l 1
@@ -5533,18 +5551,18 @@ SplineSet
  500 100 l 1
  500 0 l 1
  0 0 l 1
- 0 200 l 1
+ 0 200 l 1xdb94
  200 200 l 1
- 200 300 l 1
+ 200 300 l 1xe7b4
  300 300 l 1
- 300 400 l 1
+ 300 400 l 1xcbac
 475 225 m 1
  475 375 l 1
  325 375 l 1
  325 275 l 1
  225 275 l 1
  225 175 l 1
- 25 175 l 1
+ 25 175 l 1xebac
  25 25 l 1
  475 25 l 1
  475 75 l 1
@@ -5552,6 +5570,7 @@ SplineSet
  275 225 l 1
  475 225 l 1
 EndSplineSet
+Validated: 5
 EndChar
 EndChars
 EndSplineFont
