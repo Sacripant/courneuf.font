@@ -4,25 +4,24 @@ FullName: Courneuf Outline
 FamilyName: Courneuf
 Weight: Outline
 Copyright: Created by Thomas jund @_sacripant with FontForge 2.0 (http://fontforge.sf.net)
-UComments: "2013-1-15: Created."
-Version: 001.201
+UComments: "2013-1-15: Created." 
+Version: 001.001
 ItalicAngle: 0
 UnderlinePosition: -100
 UnderlineWidth: 45
 Ascent: 700
 Descent: 200
-InvalidEm: 0
-sfntRevision: 0x00013333
+sfntRevision: 0x00010000
 LayerCount: 2
-Layer: 0 0 "Arri+AOgA-re" 1
-Layer: 1 0 "Avant" 0
+Layer: 0 0 "Arri+AOgA-re"  1
+Layer: 1 0 "Avant"  0
 XUID: [1021 853 1534986351 5375954]
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1358273878
-ModificationTime: 1421752572
+ModificationTime: 1421181984
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -41,25 +40,23 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-OS2CapHeight: 0
-OS2XHeight: 0
 OS2Vendor: 'PfEd'
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2013, Thomas (<URL|email>),+AAoA-with Reserved Font Name courneuf.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "" "" "" "" "" "" "" "" "" "" "Copyright (c) 2013, Thomas (<URL|email>),+AAoA-with Reserved Font Name courneuf.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" 
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
-DisplaySize: -48
+DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 0 25 10
+WinInfo: 0 40 15
 BeginPrivate: 1
 BlueValues 21 [0 0 400 400 600 600]
 EndPrivate
 TeXData: 1 0 0 349525 174762 116508 466034 1048576 116508 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65536 100
+BeginChars: 65536 91
 
 StartChar: a
 Encoding: 97 97 0
@@ -69,7 +66,6 @@ Flags: W
 HStem: 0 25<25 375> 75 25<300 375> 175 25<25 200> 300 25<125 200> 375 25<125 275>
 VStem: 0 25<25 175> 100 25<325 375> 200 25<200 300> 275 25<100 375> 375 25<25 75>
 LayerCount: 2
-Back
 Fore
 SplineSet
 300 100 m 1
@@ -106,7 +102,6 @@ Flags: W
 HStem: 0 25<25 375> 75 25<25 100 200 375> 100 25<425 475> 275 25<425 475> 300 25<200 375> 375 25<200 375> 500 25<25 100> 575 25<25 175>
 VStem: 0 25<25 75 525 575> 100 25<100 500> 175 25<100 300 400 575> 375 25<25 75 325 375> 400 25<125 275> 475 25<125 275>
 LayerCount: 2
-Back
 Fore
 SplineSet
 200 300 m 1xcfec
@@ -161,7 +156,6 @@ Flags: W
 HStem: 0 25<25 275> 75 25<100 275> 300 25<100 275> 375 25<25 275>
 VStem: 0 25<25 375> 75 25<100 300> 275 25<25 75 325 375>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 400 m 1
@@ -194,7 +188,6 @@ Flags: W
 HStem: 0 25<125 375> 75 25<125 300> 100 25<25 75> 275 25<25 75> 300 25<125 300> 375 25<125 300> 500 25<225 300> 575 25<225 375>
 VStem: 0 25<125 275> 75 25<125 275> 100 25<25 75 325 375> 200 25<525 575> 300 25<100 300 400 500> 375 25<25 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 300 m 1xafbc
@@ -245,7 +238,6 @@ Flags: W
 HStem: 0 25<125 275> 75 25<125 275> 100 25<25 75> 200 25<100 275> 275 25<25 100> 375 25<125 275>
 VStem: 0 25<125 275> 75 25<125 200> 100 25<25 75 300 375> 275 25<25 75 225 375>
 LayerCount: 2
-Back
 Fore
 SplineSet
 300 200 m 1xbec0
@@ -288,7 +280,6 @@ Flags: W
 HStem: 0 25<25 275> 75 25<25 100 200 275> 300 25<25 100 200 275> 375 25<25 100 200 275> 475 25<125 175> 500 25<225 275> 575 25<225 275>
 VStem: 0 25<25 75 325 375> 100 25<100 300 400 475> 175 25<100 300 400 475> 200 25<525 575> 275 25<25 75 325 375 525 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 300 600 m 1xf7b0
@@ -347,7 +338,6 @@ Flags: W
 HStem: -200 25<125 275> -125 25<125 275> -100 25<325 375> 0 25<125 300> 75 25<125 300> 100 25<25 75> 275 25<25 75> 300 25<125 300> 375 25<125 375>
 VStem: 0 25<125 275> 75 25<125 275> 100 25<-175 -125 25 75 325 375> 275 25<-175 -125> 300 25<-75 0 100 300> 375 25<-75 375>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 300 m 1x95d2
@@ -404,7 +394,6 @@ Flags: W
 HStem: 0 25<25 275 425 475> 75 25<25 100 200 275> 200 25<200 275> 275 25<200 275 425 475> 300 25<325 375> 375 25<325 375> 500 25<25 100> 575 25<25 175>
 VStem: 0 25<25 75 525 575> 100 25<100 500> 175 25<100 200 300 575> 275 25<25 75 225 275> 300 25<325 375> 375 25<325 375> 400 25<25 275> 475 25<25 275>
 LayerCount: 2
-Back
 Fore
 SplineSet
 200 600 m 1xefe9
@@ -467,9 +456,6 @@ Width: 300
 VWidth: 0
 Flags: W
 LayerCount: 2
-Back
-Fore
-Validated: 1
 EndChar
 
 StartChar: i
@@ -480,7 +466,6 @@ Flags: W
 HStem: 0 25<25 275> 75 25<25 100 200 275> 300 25<25 100> 375 25<25 175> 500 25<125 175> 575 25<125 175>
 VStem: 0 25<25 75 325 375> 100 25<100 300 525 575> 175 25<100 375 525 575> 275 25<25 75>
 LayerCount: 2
-Back
 Fore
 SplineSet
 200 600 m 1
@@ -527,7 +512,6 @@ Flags: W
 HStem: 0 25<25 375> 75 25<25 100 200 300> 175 25<125 175 325 375> 200 25<25 75 225 275> 300 25<100 200 300 375> 375 25<25 375>
 VStem: 0 25<25 75 225 375> 75 25<225 300> 100 25<100 175> 175 25<100 175> 200 25<225 300> 275 25<225 300> 300 25<100 175> 375 25<25 175 325 375>
 LayerCount: 2
-Back
 Fore
 SplineSet
 400 300 m 1xde84
@@ -586,7 +570,6 @@ Flags: W
 HStem: -200 25<25 275> -125 25<25 200> 300 25<25 200> 375 25<25 275> 500 25<225 275> 575 25<225 275>
 VStem: 0 25<-175 -125 325 375> 200 25<-100 300 525 575> 275 25<-175 375 525 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 200 600 m 1
@@ -629,7 +612,6 @@ Flags: W
 HStem: 0 25<25 175 325 475> 75 25<25 100 400 475> 200 25<200 300> 275 25<200 300> 300 25<400 475> 375 25<325 475> 500 25<25 100> 575 25<25 175>
 VStem: 0 25<25 75 525 575> 100 25<100 500> 175 25<25 200 300 575> 300 25<25 200 300 375> 375 25<100 300> 475 25<25 75 325 375>
 LayerCount: 2
-Back
 Fore
 SplineSet
 300 400 m 1xf7fc
@@ -686,7 +668,6 @@ Flags: W
 HStem: 0 25<25 275> 75 25<25 100 200 275> 500 25<25 100> 575 25<25 175>
 VStem: 0 25<25 75 525 575> 100 25<100 500> 175 25<100 575> 275 25<25 75>
 LayerCount: 2
-Back
 Fore
 SplineSet
 200 100 m 1
@@ -723,7 +704,6 @@ Flags: W
 HStem: 0 25<25 75 225 275 425 475> 275 25<225 275 425 475> 300 25<100 175 325 375> 375 25<25 175 325 375>
 VStem: 0 25<25 375> 75 25<25 300> 175 25<325 375> 200 25<25 275> 275 25<25 275> 300 25<325 375> 375 25<325 375> 400 25<25 275> 475 25<25 275>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 400 m 1xbd08
@@ -782,7 +762,6 @@ Flags: W
 HStem: 0 25<25 175 325 375> 75 25<25 100> 275 25<325 375> 300 25<25 100 200 275> 375 25<25 275>
 VStem: 0 25<25 75 325 375> 100 25<100 300> 175 25<25 300> 275 25<325 375> 300 25<25 275> 375 25<25 275>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 400 m 1xdf60
@@ -829,7 +808,6 @@ Flags: W
 HStem: 0 25<125 275> 75 25<125 275> 100 25<25 75 325 375> 275 25<25 75 325 375> 300 25<125 275> 375 25<125 275>
 VStem: 0 25<125 275> 75 25<125 275> 100 25<25 75 325 375> 275 25<25 75 325 375> 300 25<125 275> 375 25<125 275>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 300 m 1xae90
@@ -884,7 +862,6 @@ Flags: W
 HStem: -200 25<-75 75> -125 25<-75 0> 0 25<100 275> 75 25<100 275> 100 25<325 375> 275 25<325 375> 300 25<100 275> 375 25<25 275>
 VStem: -100 25<-175 -125> 0 25<-100 375> 75 25<-175 0 100 300> 275 25<25 75 325 375> 300 25<125 275> 375 25<125 275>
 LayerCount: 2
-Back
 Fore
 SplineSet
 300 300 m 1xebec
@@ -935,7 +912,6 @@ Flags: W
 HStem: -200 25<325 475> -125 25<400 475> 0 25<125 300> 75 25<125 300> 100 25<25 75> 275 25<25 75> 300 25<125 300> 375 25<125 375>
 VStem: 0 25<125 275> 75 25<125 275> 100 25<25 75 325 375> 300 25<-175 0 100 300> 375 25<-100 375> 475 25<-175 -125>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 300 m 1xebbc
@@ -990,7 +966,6 @@ Flags: W
 HStem: 0 25<25 275> 75 25<25 100 200 275> 300 25<25 100 200 375> 375 25<25 375>
 VStem: 0 25<25 75 325 375> 100 25<100 300> 175 25<100 300> 275 25<25 75> 375 25<325 375>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 400 m 1
@@ -1031,7 +1006,6 @@ Flags: W
 HStem: 0 25<225 275> 100 25<125 200> 175 25<200 275> 200 25<325 375> 300 25<25 100> 375 25<25 175 325 375>
 VStem: 0 25<325 375> 100 25<125 300> 175 25<200 375> 200 25<25 100> 275 25<25 175> 300 25<225 375> 375 25<225 375>
 LayerCount: 2
-Back
 Fore
 SplineSet
 300 400 m 1xdf18
@@ -1078,7 +1052,6 @@ Flags: W
 HStem: 0 25<-75 75> 75 25<-75 75> 100 25<125 175> 175 25<125 175> 200 25<25 75> 300 25<100 175> 375 25<25 175>
 VStem: -100 25<25 75> 0 25<225 375> 75 25<25 75 225 300> 100 25<125 175> 175 25<125 175 325 375>
 LayerCount: 2
-Back
 Fore
 SplineSet
 200 300 m 1x8fb0
@@ -1127,7 +1100,6 @@ Flags: W
 HStem: 0 25<125 275> 75 25<125 275> 100 25<25 75 325 375> 175 25<325 375> 300 25<-75 0 100 275> 375 25<-75 0 100 275> 475 25<25 75>
 VStem: -100 25<325 375> 0 25<125 300 400 475> 75 25<125 300 400 475> 100 25<25 75> 275 25<25 75 325 375> 300 25<125 175> 375 25<125 175>
 LayerCount: 2
-Back
 Fore
 SplineSet
 300 200 m 1xbf8c
@@ -1188,7 +1160,6 @@ Flags: W
 HStem: 0 25<125 275> 75 25<125 200> 100 25<25 75> 300 25<-75 0> 375 25<-75 75 225 275>
 VStem: -100 25<325 375> 0 25<125 300> 75 25<125 375> 100 25<25 75> 200 25<100 375> 275 25<25 375>
 LayerCount: 2
-Back
 Fore
 SplineSet
 -100 400 m 1xbee0
@@ -1231,7 +1202,6 @@ Flags: W
 HStem: 0 25<125 175 325 375> 75 25<125 175 325 375> 100 25<25 75 225 275 425 475> 175 25<225 275> 300 25<100 175 325 400> 375 25<25 175 325 475>
 VStem: 0 25<125 375> 75 25<125 300> 100 25<25 75> 175 25<25 75 325 375> 200 25<125 175> 275 25<125 175> 300 25<25 75 325 375> 375 25<25 75> 400 25<125 300> 475 25<125 375>
 LayerCount: 2
-Back
 Fore
 SplineSet
 200 300 m 1xbea1
@@ -1304,7 +1274,6 @@ Flags: W
 HStem: 0 25<25 75 325 375> 75 25<25 75 325 375> 100 25<125 275> 275 25<125 275> 300 25<25 75 325 375> 375 25<25 75 325 375>
 VStem: 0 25<25 75 325 375> 75 25<25 75 325 375> 100 25<125 275> 275 25<125 275> 300 25<25 75 325 375> 375 25<25 75 325 375>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 0 m 1xa690
@@ -1369,7 +1338,6 @@ Flags: W
 HStem: -200 25<125 275> -125 25<200 275> -25 25<125 175> 0 25<225 275> 75 25<225 275> 100 25<125 175 325 375> 300 25<25 100 400 475> 375 25<25 175 325 475>
 VStem: 0 25<325 375> 100 25<-175 -25 125 300> 175 25<-100 -25 125 375> 200 25<25 75> 275 25<-175 -125 25 75> 300 25<125 375> 375 25<125 300> 475 25<325 375>
 LayerCount: 2
-Back
 Fore
 SplineSet
 300 400 m 1xc7c7
@@ -1436,7 +1404,6 @@ Flags: W
 HStem: 0 25<25 375> 75 25<300 375> 175 25<25 200> 300 25<125 200> 375 25<125 275> 400 25<325 375> 475 25<325 375> 500 25<225 275> 575 25<225 275>
 VStem: 0 25<25 175> 100 25<325 375> 200 25<200 300 525 575> 275 25<100 375 525 575> 300 25<425 475> 375 25<25 75 425 475>
 LayerCount: 2
-Back
 Fore
 SplineSet
 100 400 m 1xf4fa
@@ -1493,7 +1460,6 @@ Flags: W
 HStem: 0 25<125 275> 75 25<125 275> 100 25<25 75> 200 25<100 275> 275 25<25 100> 375 25<125 275> 400 25<25 75> 475 25<25 75> 500 25<125 175> 575 25<125 175>
 VStem: 0 25<125 275 425 475> 75 25<125 200 425 475> 100 25<25 75 300 375 525 575> 175 25<525 575> 275 25<25 75 225 375>
 LayerCount: 2
-Back
 Fore
 SplineSet
 300 200 m 1xba6e
@@ -1556,7 +1522,6 @@ Flags: W
 HStem: 0 25<125 275> 75 25<125 275> 100 25<25 75> 200 25<100 275> 275 25<25 100> 375 50<225 275> 375 25<125 200> 475 25<225 275> 500 25<125 175> 575 25<125 175>
 VStem: 0 25<125 275> 75 25<125 200> 100 25<25 75 300 375 525 575> 175 25<525 575> 200 25<425 475> 275 25<25 75 225 375 425 475>
 LayerCount: 2
-Back
 Fore
 SplineSet
 300 0 m 1xb869
@@ -1612,52 +1577,69 @@ StartChar: ecircumflex
 Encoding: 234 234 30
 Width: 400
 VWidth: 0
-Flags: HW
+Flags: W
 HStem: 0 25<125 275> 75 25<125 275> 100 25<25 75> 200 25<100 275> 275 25<25 100> 375 25<125 200> 400 25<25 75> 475 25<25 75 225 275> 500 25<125 175> 575 25<125 175>
 VStem: 0 25<125 275 425 475> 75 25<125 200 425 475> 100 25<25 75 300 375 525 575> 175 25<525 575> 200 25<425 475> 275 25<25 75 225 375 425 475>
 LayerCount: 2
-Back
 Fore
 SplineSet
-100 100 m 1
- 300 100 l 1
- 300 0 l 1
+300 0 m 1xb869
  100 0 l 1
  100 100 l 1
-275 25 m 1
- 275 75 l 1
- 125 75 l 1
+ 300 100 l 1
+ 300 0 l 1xb869
+125 75 m 1xd869
  125 25 l 1
  275 25 l 1
-100 600 m 1
- 300 600 l 1
- 300 500 l 1
+ 275 75 l 1
+ 125 75 l 1xd869
+0 500 m 1x9ae9
+ 100 500 l 1
+ 100 400 l 1
+ 0 400 l 1
+ 0 500 l 1x9ae9
+75 425 m 1x9b71
+ 75 475 l 1
+ 25 475 l 1
+ 25 425 l 1
+ 75 425 l 1x9b71
+200 600 m 1x98eb
+ 200 500 l 1
  100 500 l 1
  100 600 l 1
-125 525 m 1
- 275 525 l 1
- 275 575 l 1
+ 200 600 l 1x98eb
+175 525 m 1x98ed
+ 175 575 l 1
  125 575 l 1
  125 525 l 1
-100 400 m 1
- 300 400 l 1
- 300 200 l 1
- 100 200 l 1
+ 175 525 l 1x98ed
+300 200 m 1
+ 100 200 l 1x9cf3
  100 100 l 1
  0 100 l 1
  0 300 l 1
  100 300 l 1
- 100 400 l 1
-275 225 m 1
+ 100 400 l 1xbae9
+ 200 400 l 1
+ 200 500 l 1x9ceb
+ 300 500 l 1
+ 300 200 l 1
+225 475 m 1x9b63
+ 225 425 l 1
+ 275 425 l 1
+ 275 475 l 1
+ 225 475 l 1x9b63
+75 225 m 1xbc71
+ 275 225 l 1
  275 375 l 1
  125 375 l 1
- 125 275 l 1
+ 125 275 l 1xbc69
  25 275 l 1
  25 125 l 1
  75 125 l 1
- 75 225 l 1
- 275 225 l 1
+ 75 225 l 1xbc71
 EndSplineSet
+Validated: 5
 EndChar
 
 StartChar: idieresis
@@ -1668,7 +1650,6 @@ Flags: W
 HStem: 0 25<25 275> 75 25<25 100 200 275> 300 25<25 100> 375 25<25 175> 500 25<25 75 225 275> 575 25<25 75 225 275>
 VStem: 0 25<25 75 325 375 525 575> 75 25<525 575> 100 25<100 300> 175 25<100 375> 200 25<525 575> 275 25<25 75 525 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 100 600 m 1xfe90
@@ -1725,7 +1706,6 @@ Flags: W
 HStem: 0 25<225 375> 75 25<225 300> 100 25<125 175> 300 25<25 100> 375 50<325 375> 375 25<25 175> 475 25<325 375> 500 25<225 275> 575 25<225 275>
 VStem: 0 25<325 375> 100 25<125 300> 175 25<125 375> 200 25<25 75 525 575> 275 25<525 575> 300 25<100 375 425 475> 375 25<25 375 425 475>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 400 m 1xb4e9
@@ -1783,7 +1763,6 @@ Flags: W
 HStem: -200 25<25 175> -125 25<25 100> 0 25<25 100 200 275> 75 25<100 275> 300 25<100 275> 375 25<25 275>
 VStem: 0 25<-175 -125 25 375> 75 25<100 300> 100 25<-100 -25> 175 25<-175 -25> 275 25<25 75 325 375>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 400 m 1xfee0
@@ -1829,7 +1808,6 @@ Flags: W
 HStem: 0 25<25 175 325 475> 75 25<100 175 325 400> 175 25<25 75 425 475> 200 25<125 375> 275 25<200 300> 375 25<125 175 325 375> 400 25<225 275> 500 25<125 200> 575 25<125 275>
 VStem: 0 25<25 175> 75 25<100 175> 100 25<225 375 525 575> 175 25<25 75 300 375> 200 25<425 500> 275 25<425 575> 300 25<25 75 300 375> 375 25<225 375> 400 25<100 175> 475 25<25 175>
 LayerCount: 2
-Back
 Fore
 SplineSet
 300 600 m 1xcbd520
@@ -1904,7 +1882,6 @@ Flags: W
 HStem: 0 25<25 375> 75 25<25 100 200 375> 100 25<425 475> 275 25<425 475> 300 25<200 375> 375 25<200 375> 400 25<425 475> 475 25<425 475> 500 25<25 100 200 375> 575 25<25 375>
 VStem: 0 25<25 75 525 575> 100 25<100 500> 175 25<100 300 400 500> 375 25<25 75 325 375 525 575> 400 25<125 275 425 475> 475 25<125 275 425 475>
 LayerCount: 2
-Back
 Fore
 SplineSet
 200 400 m 1xc4fb
@@ -1973,7 +1950,6 @@ Flags: W
 HStem: 0 25<125 275> 75 25<125 275> 100 25<25 75> 400 25<225 275> 500 25<100 200> 575 25<25 275>
 VStem: 0 25<125 575> 75 25<125 500> 100 25<25 75> 200 25<425 500> 275 25<25 75 425 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 300 400 m 1xbee0
@@ -2016,7 +1992,6 @@ Flags: W
 HStem: 0 25<25 375> 75 25<25 100 200 375> 100 25<425 475> 475 25<425 475> 500 25<25 100 200 375> 575 25<25 375>
 VStem: 0 25<25 75 525 575> 100 25<100 500> 175 25<100 500> 375 25<25 75 525 575> 400 25<125 475> 475 25<125 475>
 LayerCount: 2
-Back
 Fore
 SplineSet
 200 500 m 1xcfb0
@@ -2067,7 +2042,6 @@ Flags: W
 HStem: 0 25<25 475> 75 25<25 100 200 400> 175 25<425 475> 300 25<200 275> 375 25<200 275> 400 25<425 475> 500 25<25 100 200 400> 575 25<25 475>
 VStem: 0 25<25 75 525 575> 100 25<100 500> 175 25<100 300 400 500> 275 25<325 375> 400 25<100 175 425 500> 475 25<25 175 425 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 600 m 1xf7fc
@@ -2124,7 +2098,6 @@ Flags: W
 HStem: 0 25<25 275> 75 25<25 100 200 275> 300 25<200 275> 375 25<200 275> 400 25<425 475> 500 25<25 100 200 400> 575 25<25 475>
 VStem: 0 25<25 75 525 575> 100 25<100 500> 175 25<100 300 400 500> 275 25<25 75 325 375> 400 25<425 500> 475 25<425 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 600 m 1xeff8
@@ -2177,7 +2150,6 @@ Flags: W
 HStem: 0 25<125 275> 75 25<125 200> 100 25<25 75> 200 25<300 375> 275 25<225 375> 500 25<100 275> 575 25<25 275>
 VStem: 0 25<125 575> 75 25<125 500> 100 25<25 75> 200 25<100 275> 275 25<25 200 525 575> 375 25<225 275>
 LayerCount: 2
-Back
 Fore
 SplineSet
 200 300 m 1xdf78
@@ -2224,7 +2196,6 @@ Flags: W
 HStem: 0 25<25 275 425 475> 75 25<25 100 200 275> 300 25<200 400> 375 25<200 400> 500 25<25 100 200 275> 575 25<25 275 425 475>
 VStem: 0 25<25 75 525 575> 100 25<100 500> 175 25<100 300 400 500> 275 25<25 75 525 575> 400 25<25 300 400 575> 475 25<25 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 400 600 m 1
@@ -2281,7 +2252,6 @@ Flags: W
 HStem: 0 25<25 275> 75 25<25 100 200 275> 500 25<25 100 200 275> 575 25<25 275>
 VStem: 0 25<25 75 525 575> 100 25<100 500> 175 25<100 500> 275 25<25 75 525 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 600 m 1
@@ -2322,7 +2292,6 @@ Flags: W
 HStem: 0 25<125 175> 75 25<125 175> 100 25<25 75 225 275> 275 25<25 75> 500 25<125 200 300 375> 575 25<125 375>
 VStem: 0 25<125 275> 75 25<125 275> 100 25<25 75 525 575> 175 25<25 75> 200 25<125 500> 275 25<125 500> 375 25<525 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 100 0 m 1xbeb8
@@ -2375,7 +2344,6 @@ Flags: W
 HStem: 0 25<25 175 325 475> 75 25<25 100 400 475> 200 25<200 300> 275 25<300 375> 375 25<200 275> 400 25<325 375> 500 25<25 100 400 475> 575 25<25 175 325 475>
 VStem: 0 25<25 75 525 575> 100 25<100 500> 175 25<25 200 400 575> 275 25<300 375> 300 25<25 200 425 575> 375 25<100 275 425 500> 475 25<25 75 525 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 400 500 m 1xf7ee
@@ -2442,7 +2410,6 @@ Flags: W
 HStem: 0 25<25 475> 75 25<25 100 200 400> 175 25<425 475> 500 25<25 100 200 275> 575 25<25 275>
 VStem: 0 25<25 75 525 575> 100 25<100 500> 175 25<100 500> 275 25<525 575> 400 25<100 175> 475 25<25 175>
 LayerCount: 2
-Back
 Fore
 SplineSet
 400 200 m 1
@@ -2487,7 +2454,6 @@ Flags: W
 HStem: 0 25<25 175 325 475> 75 25<100 175 325 400> 200 25<225 275> 275 25<225 275> 300 25<100 175 325 400> 575 25<25 175 325 475>
 VStem: 0 25<25 575> 75 25<100 300> 175 25<25 75 325 575> 200 25<225 275> 275 25<225 275> 300 25<25 75 325 575> 400 25<100 300> 475 25<25 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 600 m 1xef4c
@@ -2548,7 +2514,6 @@ Flags: W
 HStem: 0 25<25 275 425 475> 75 25<25 100 200 275> 100 25<325 400> 275 25<325 400> 300 25<200 275> 475 25<200 275> 500 25<25 100 325 400> 575 25<25 175 325 475>
 VStem: 0 25<25 75 525 575> 100 25<100 500> 175 25<100 300 500 575> 275 25<25 75 325 475> 300 25<125 275 525 575> 400 25<25 100 300 500> 475 25<25 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 200 300 m 1x8bee
@@ -2615,7 +2580,6 @@ Flags: W
 HStem: 0 25<125 275> 75 25<125 275> 100 25<25 75 325 375> 475 25<25 75 325 375> 500 25<125 275> 575 25<125 275>
 VStem: 0 25<125 475> 75 25<125 475> 100 25<25 75 525 575> 275 25<25 75 525 575> 300 25<125 475> 375 25<125 475>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 500 m 1xae90
@@ -2670,7 +2634,6 @@ Flags: W
 HStem: 0 25<25 275> 75 25<25 100 200 275> 200 25<200 375> 275 25<200 375> 300 25<425 475> 475 25<425 475> 500 25<25 100 200 375> 575 25<25 375>
 VStem: 0 25<25 75 525 575> 100 25<100 500> 175 25<100 200 300 500> 275 25<25 75> 375 25<225 275 525 575> 400 25<325 475> 475 25<325 475>
 LayerCount: 2
-Back
 Fore
 SplineSet
 200 500 m 1xebf6
@@ -2729,7 +2692,6 @@ Flags: W
 HStem: -100 25<225 375> -25 25<300 375> 0 25<125 200> 75 25<125 275> 100 25<25 75 325 375> 475 25<25 75 325 375> 500 25<125 275> 575 25<125 275>
 VStem: 0 25<125 475> 75 25<125 475> 100 25<25 75 525 575> 200 25<-75 0> 275 25<0 75 525 575> 300 25<125 475> 375 25<-75 -25 125 475>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 500 m 1x8bb2
@@ -2792,7 +2754,6 @@ Flags: W
 HStem: 0 25<25 275 425 475> 75 25<25 100 200 275> 175 25<425 475> 200 25<200 375> 275 25<200 375> 300 25<425 475> 475 25<425 475> 500 25<25 100 200 375> 575 25<25 375>
 VStem: 0 25<25 75 525 575> 100 25<100 500> 175 25<100 200 300 500> 275 25<25 75> 375 25<225 275 525 575> 400 25<25 175 325 475> 475 25<25 175 325 475>
 LayerCount: 2
-Back
 Fore
 SplineSet
 200 300 m 1xd9fb
@@ -2861,7 +2822,6 @@ Flags: W
 HStem: 0 25<25 275> 75 25<100 200> 175 25<25 75> 275 25<225 275> 300 25<125 175> 375 25<125 175> 400 25<25 75> 500 25<100 275> 575 25<25 275>
 VStem: 0 25<25 175 425 575> 75 25<100 175 425 500> 100 25<325 375> 175 25<325 375> 200 25<100 275> 275 25<25 275 525 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 300 500 m 1xe3d2
@@ -2918,7 +2878,6 @@ Flags: W
 HStem: 0 25<125 375> 75 25<125 200 300 375> 400 25<25 75 425 475> 500 25<100 200 300 400> 575 25<25 475>
 VStem: 0 25<425 575> 75 25<425 500> 100 25<25 75> 200 25<100 500> 275 25<100 500> 375 25<25 75> 400 25<425 500> 475 25<425 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 600 m 1xfdc8
@@ -2967,7 +2926,6 @@ Flags: W
 HStem: 0 25<125 275> 75 25<125 275> 100 25<25 75 325 375> 500 25<-75 0 225 300> 575 25<-75 75 225 375>
 VStem: -100 25<525 575> 0 25<125 500> 75 25<125 575> 100 25<25 75> 200 25<525 575> 275 25<25 75> 300 25<125 500> 375 25<125 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 -100 600 m 1xbec8
@@ -3020,7 +2978,6 @@ Flags: W
 HStem: 0 25<225 275> 75 25<225 275> 100 25<125 175 325 375> 375 25<125 175 325 375> 400 25<25 75 425 475> 500 25<100 175 325 400> 575 25<25 175 325 475>
 VStem: 0 25<425 575> 75 25<425 500> 100 25<125 375> 175 25<125 375 525 575> 200 25<25 75> 275 25<25 75> 300 25<125 375 525 575> 375 25<125 375> 400 25<425 500> 475 25<425 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 200 500 m 1x8f5080
@@ -3093,7 +3050,6 @@ Flags: W
 HStem: 0 25<125 175 325 375> 75 25<125 175 325 375> 100 25<25 75 225 275 425 475> 375 25<225 275> 500 25<100 175 325 400> 575 25<25 175 325 475>
 VStem: 0 25<125 575> 75 25<125 500> 100 25<25 75> 175 25<25 75 525 575> 200 25<125 375> 275 25<125 375> 300 25<25 75 525 575> 375 25<25 75> 400 25<125 500> 475 25<125 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 200 500 m 1xbea1
@@ -3166,7 +3122,6 @@ Flags: W
 HStem: 0 25<25 175 325 475> 75 25<25 100 400 475> 175 25<125 175 325 375> 200 25<225 275> 375 25<225 275> 400 25<125 175 325 375> 500 25<25 100 400 475> 575 25<25 175 325 475>
 VStem: 0 25<25 75 525 575> 100 25<100 175 425 500> 175 25<25 175 425 575> 200 25<225 375> 275 25<225 375> 300 25<25 175 425 575> 375 25<100 175 425 500> 475 25<25 75 525 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 100 100 m 1xd3d3
@@ -3247,7 +3202,6 @@ Flags: W
 HStem: 0 25<125 375> 75 25<125 200 300 375> 275 25<225 275> 300 25<125 175 325 375> 375 25<125 175 325 375> 400 25<25 75 425 475> 500 25<100 175 325 400> 575 25<25 175 325 475>
 VStem: 0 25<425 575> 75 25<425 500> 100 25<25 75 325 375> 175 25<325 375 525 575> 200 25<100 275> 275 25<100 275> 300 25<325 375 525 575> 375 25<25 75 325 375> 400 25<425 500> 475 25<425 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 200 500 m 1xc7a840
@@ -3328,7 +3282,6 @@ Flags: W
 HStem: 0 25<25 375> 75 25<100 300> 175 25<25 75 325 375> 200 25<125 175> 275 25<125 175> 300 25<225 275> 375 25<225 275> 400 25<25 75 325 375> 500 25<100 300> 575 25<25 375>
 VStem: 0 25<25 175 425 575> 75 25<100 175 425 500> 100 25<225 275> 175 25<225 275> 200 25<325 375> 275 25<325 375> 300 25<100 175 425 500> 375 25<25 175 425 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 400 600 m 1xc1e840
@@ -3399,7 +3352,6 @@ Flags: W
 HStem: 0 25<25 175 325 475> 75 25<100 175 325 400> 175 25<25 75 425 475> 200 25<125 375> 275 25<200 300> 375 25<125 175 325 375> 400 25<225 275> 500 25<125 200> 575 25<125 275> 600 25<325 375> 675 25<325 375> 700 25<225 275> 775 25<225 275>
 VStem: 0 25<25 175> 75 25<100 175> 100 25<225 375 525 575> 175 25<25 75 300 375> 200 25<425 500 725 775> 275 25<425 575 725 775> 300 25<25 75 300 375 625 675> 375 25<225 375 625 675> 400 25<100 175> 475 25<25 175>
 LayerCount: 2
-Back
 Fore
 SplineSet
 400 700 m 1xc95c16
@@ -3494,7 +3446,6 @@ Flags: W
 HStem: 0 25<25 475> 75 25<25 100 200 400> 175 25<425 475> 300 25<200 275> 375 25<200 275> 400 25<425 475> 500 25<25 100 200 400> 575 25<25 200 300 475> 675 25<225 275> 700 25<325 375> 775 25<325 375>
 VStem: 0 25<25 75 525 575> 100 25<100 500> 175 25<100 300 400 500> 200 25<625 675> 275 25<325 375 625 675> 300 25<725 775> 375 25<725 775> 400 25<100 175 425 500> 475 25<25 175 425 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 400 800 m 1xf378b0
@@ -3570,7 +3521,6 @@ Flags: W
 HStem: 0 25<25 475> 75 25<25 100 200 400> 175 25<425 475> 300 25<200 275> 375 25<200 275> 400 25<425 475> 500 25<25 100 200 400> 575 50<325 375> 575 25<25 300 400 475> 675 25<325 375> 700 25<225 275> 775 25<225 275>
 VStem: 0 25<25 75 525 575> 100 25<100 500> 175 25<100 300 400 500> 200 25<725 775> 275 25<325 375 725 775> 300 25<625 675> 375 25<625 675> 400 25<100 175 425 500> 475 25<25 175 425 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 200 800 m 1xf23d48
@@ -3646,7 +3596,6 @@ Flags: W
 HStem: 0 25<25 475> 75 25<25 100 200 400> 175 25<425 475> 300 25<200 275> 375 25<200 275> 400 25<425 475> 500 25<25 100 200 400> 575 50<125 175 325 375> 575 25<25 100 200 300 400 475> 675 25<125 175 325 375> 700 25<225 275> 775 25<225 275>
 VStem: 0 25<25 75 525 575> 100 25<100 500 625 675> 175 25<100 300 400 500 625 675> 200 25<725 775> 275 25<325 375 725 775> 300 25<625 675> 375 25<625 675> 400 25<100 175 425 500> 475 25<25 175 425 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 500 400 m 1xf6bd58
@@ -3731,7 +3680,6 @@ Flags: W
 HStem: 0 25<125 275> 75 25<125 275> 100 25<25 75 325 375> 500 25<-75 0 225 300> 575 50<225 275> 575 25<-75 75 300 375> 675 25<225 275> 700 25<125 175> 775 25<125 175>
 VStem: -100 25<525 575> 0 25<125 500> 75 25<125 575> 100 25<25 75 725 775> 175 25<725 775> 200 25<525 575 625 675> 275 25<25 75 625 675> 300 25<125 500> 375 25<125 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 -100 600 m 1xb4e840
@@ -3801,7 +3749,6 @@ Flags: W
 HStem: 0 25<25 275> 75 25<25 100 200 275> 500 25<25 100 200 275> 575 50<25 75 225 275> 675 25<25 75 225 275> 700 25<125 175> 775 25<125 175>
 VStem: 0 25<25 75 525 575 625 675> 75 25<625 675> 100 25<100 500 725 775> 175 25<100 500 725 775> 200 25<625 675> 275 25<25 75 525 575 625 675>
 LayerCount: 2
-Back
 Fore
 SplineSet
 200 800 m 1xf758
@@ -3866,7 +3813,6 @@ Flags: W
 HStem: -200 25<25 175> -125 25<25 100> -25 50<125 175> 0 25<200 275> 75 25<125 275> 100 25<25 75> 400 25<225 275> 500 25<100 200> 575 25<25 275>
 VStem: 0 25<-175 -125 125 575> 75 25<125 500> 100 25<-100 -25 25 75> 175 25<-175 -25> 200 25<425 500> 275 25<25 75 425 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 300 400 m 1xc7d2
@@ -3916,11 +3862,10 @@ StartChar: hyphen
 Encoding: 45 45 67
 Width: 400
 VWidth: 0
-Flags: W
-HStem: 200 25<25 275> 275 25<25 275>
-VStem: 0 25<225 275> 275 25<225 275>
+Flags: HWO
+HStem: 200 25<25 300> 275 25<25 300>
+VStem: 0 25<225 275> 300 25<225 275>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 300 m 1
@@ -3934,7 +3879,6 @@ SplineSet
  25 225 l 1
  275 225 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: period
@@ -3945,7 +3889,6 @@ Flags: W
 HStem: 0 25<25 75> 75 25<25 75>
 VStem: 0 25<25 75> 75 25<25 75>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 100 m 1
@@ -3970,7 +3913,6 @@ Flags: W
 HStem: -200 25<25 75> -125 25<25 75> -100 25<125 175> 75 25<125 175>
 VStem: 0 25<-175 -125> 75 25<-175 -125> 100 25<-75 75> 175 25<-75 75>
 LayerCount: 2
-Back
 Fore
 SplineSet
 100 100 m 1xbb
@@ -4005,7 +3947,6 @@ Flags: W
 HStem: 0 25<25 75> 175 25<25 75> 200 25<125 175> 375 25<125 175> 400 25<225 275> 575 25<225 275>
 VStem: 0 25<25 175> 75 25<25 175> 100 25<225 375> 175 25<225 375> 200 25<425 575> 275 25<425 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 0 m 1xa690
@@ -4050,7 +3991,6 @@ Flags: W
 HStem: 0 25<25 75> 100 25<100 175> 175 25<25 100> 200 25<200 275> 275 25<200 275> 300 25<25 100> 375 25<100 175> 475 25<25 75>
 VStem: 0 25<25 175 325 475> 75 25<25 100 400 475> 100 25<200 300> 175 25<125 200 300 375> 275 25<225 275>
 LayerCount: 2
-Back
 Fore
 SplineSet
 200 300 m 5xcbd8
@@ -4101,7 +4041,6 @@ Flags: W
 HStem: 300 25<25 75> 375 25<25 75> 400 25<125 175> 575 25<125 175>
 VStem: 0 25<325 375> 75 25<325 375> 100 25<425 575> 175 25<425 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 100 600 m 1xbb
@@ -4135,7 +4074,6 @@ VWidth: 0
 Flags: W
 HStem: 580 20G<125 175>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 0 m 1
@@ -4180,7 +4118,6 @@ Flags: W
 HStem: -100 25<25 75> -25 25<25 75> 0 25<125 175> 500 25<125 175> 525 25<25 75> 600 25<25 75>
 VStem: 0 25<-75 -25 550 600> 75 25<-75 -25 550 600> 100 25<25 500> 175 25<25 500>
 LayerCount: 2
-Back
 Fore
 SplineSet
 200 0 m 1xaec0
@@ -4225,7 +4162,6 @@ Flags: W
 HStem: 0 25<125 275> 75 25<125 275> 100 25<25 75 325 375> 200 25<225 300 400 475> 275 25<25 75 225 475> 300 25<125 175> 375 25<125 175> 400 25<25 75> 475 25<25 75> 500 25<125 275> 575 25<125 275>
 VStem: 0 25<125 275 425 475> 75 25<125 275 425 475> 100 25<25 75 325 375 525 575> 175 25<325 375> 200 25<225 275> 275 25<25 75 525 575> 300 25<125 200> 375 25<125 200> 475 25<225 275>
 LayerCount: 2
-Back
 Fore
 SplineSet
 300 600 m 5x907470
@@ -4308,7 +4244,6 @@ Flags: W
 HStem: 0 25<225 275> 100 25<125 200> 175 25<200 275> 200 25<25 100> 275 25<25 100> 300 25<200 275> 375 25<125 200> 475 25<225 275>
 VStem: 0 25<225 275> 100 25<125 200 300 375> 175 25<200 300> 200 25<25 100 400 475> 275 25<25 175 325 475>
 LayerCount: 2
-Back
 Fore
 SplineSet
 100 200 m 1xd3d8
@@ -4359,7 +4294,6 @@ Flags: W
 HStem: -100 25<225 475> -25 25<225 475> 0 25<125 175 525 575> 75 25<125 175 525 575> 100 25<25 75 225 275 425 475 625 675> 175 25<225 275 425 475> 200 25<325 375> 275 25<325 375> 300 25<225 275 425 475> 375 25<25 75 225 275 425 475 625 675> 400 25<125 175 525 575> 475 25<125 175 525 575> 500 25<225 475> 575 25<225 475>
 VStem: 0 25<125 375> 75 25<125 375> 100 25<25 75 425 475> 175 25<25 75 425 475> 200 25<-75 -25 125 175 325 375 525 575> 275 25<125 175 325 375> 300 25<225 275> 375 25<225 275> 400 25<125 175 325 375> 475 25<-75 -25 125 175 325 375 525 575> 500 25<25 75 425 475> 575 25<25 75 425 475> 600 25<125 375> 675 25<125 375>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 400 m 1x88268010
@@ -4504,7 +4438,6 @@ Flags: W
 HStem: -100 25<25 675> -25 25<200 500> 75 25<100 175 525 600> 100 25<225 275 425 475> 175 25<225 275 425 475> 200 25<325 375> 275 25<325 375> 300 25<225 275 425 475> 375 25<225 275 425 475> 400 25<100 175 525 600> 500 25<200 500> 575 25<25 675>
 VStem: 0 25<-75 575> 75 25<100 400> 175 25<0 75 425 500> 200 25<125 175 325 375> 275 25<125 175 325 375> 300 25<225 275> 375 25<225 275> 400 25<125 175 325 375> 475 25<125 175 325 375> 500 25<0 75 425 500> 600 25<100 400> 675 25<-75 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 600 m 1xc03c03
@@ -4605,7 +4538,6 @@ Flags: W
 HStem: 0 25<225 275> 75 25<225 275> 202.125 25<225 275> 277.125 25<225 275> 300 25<325 375> 400 25<125 175> 475 25<125 175 325 375> 500 25<225 275> 575 25<225 275>
 VStem: 100 25<425 475> 175 25<425 475> 200 25<25 75 227.125 277.125 525 575> 275 25<25 75 227.125 277.125 525 575> 300 25<325 475> 375 25<325 475>
 LayerCount: 2
-Back
 Fore
 SplineSet
 100 500 m 5xe5d2
@@ -4670,7 +4602,6 @@ Flags: W
 HStem: 0 25<125 175> 75 25<125 175> 200 25<125 175> 575 25<125 175>
 VStem: 100 25<25 75 225 575> 175 25<25 75 225 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 100 100 m 5
@@ -4705,7 +4636,6 @@ Flags: W
 HStem: 0 25<125 275> 75 25<125 275> 100 25<25 75 325 375> 200 25<100 175> 275 25<100 175> 300 25<225 300> 375 25<225 300> 475 25<25 75 325 375> 500 25<125 275> 575 25<125 275>
 VStem: 0 25<125 475> 75 25<125 200 300 475> 100 25<25 75 525 575> 175 25<225 275> 200 25<325 375> 275 25<25 75 525 575> 300 25<125 300 400 475> 375 25<125 475>
 LayerCount: 2
-Back
 Fore
 SplineSet
 100 300 m 1xbaf040
@@ -4776,7 +4706,6 @@ Flags: W
 HStem: 0 25<25 250> 75 25<25 100 200 250> 500 25<25 100> 575 25<25 175>
 VStem: 0 25<25 75 525 575> 100 25<100 500> 175 25<100 575> 250 25<25 75>
 LayerCount: 2
-Back
 Fore
 SplineSet
 200 100 m 1
@@ -4813,7 +4742,6 @@ Flags: W
 HStem: 0 25<25 275> 75 25<100 275> 175 25<25 75> 200 25<125 175> 275 25<125 175> 300 25<225 275> 400 25<25 75> 475 25<25 75 225 275> 500 25<125 175> 575 25<125 175>
 VStem: 0 25<25 175 425 475> 75 25<100 175 425 475> 100 25<225 275 525 575> 175 25<225 275 525 575> 200 25<325 475> 275 25<25 75 325 475>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 500 m 1xc2e9
@@ -4882,7 +4810,6 @@ Flags: W
 HStem: 0 25<25 175> 75 25<25 175> 100 25<225 275> 175 25<225 275> 200 25<125 175> 275 25<125 175> 300 25<225 275> 400 25<25 75> 475 25<25 75 225 275> 500 25<125 175> 575 25<125 175>
 VStem: 0 25<25 75 425 475> 75 25<425 475> 100 25<225 275 525 575> 175 25<25 75 225 275 525 575> 200 25<125 175 325 475> 275 25<125 175 325 475>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 500 m 1x817480
@@ -4957,7 +4884,6 @@ Flags: W
 HStem: 0 25<125 375> 75 25<125 200 300 375> 200 25<25 200 300 375> 275 25<100 200 300 375> 375 25<25 75> 400 25<125 200> 475 25<125 200> 575 25<225 275>
 VStem: 0 25<225 375> 75 25<300 375> 100 25<25 75 425 475> 200 25<100 200 300 400 500 575> 275 25<100 200 300 575> 375 25<25 75 225 275>
 LayerCount: 2
-Back
 Fore
 SplineSet
 400 200 m 1xf7bc
@@ -5018,7 +4944,6 @@ Flags: W
 HStem: 0 25<125 175> 75 25<125 175> 100 25<25 75 225 275> 175 25<25 75> 275 25<225 275> 300 25<25 175> 375 25<100 175> 500 25<100 275> 575 25<25 275>
 VStem: 0 25<125 175 325 575> 75 25<125 175 400 500> 100 25<25 75> 175 25<25 75 325 375> 200 25<125 275> 275 25<125 275 525 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 200 300 m 1xb7c6
@@ -5081,7 +5006,6 @@ Flags: W
 HStem: 0 25<125 175> 275 25<125 175> 300 25<225 275> 400 25<25 75> 500 25<100 200> 575 25<25 275>
 VStem: 0 25<425 575> 75 25<425 500> 100 25<25 275> 175 25<25 275> 200 25<325 500> 275 25<325 575>
 LayerCount: 2
-Back
 Fore
 SplineSet
 100 300 m 1xbeb0
@@ -5124,7 +5048,6 @@ Flags: W
 HStem: 0 25<125 175> 75 25<125 175> 100 25<25 75 225 275> 275 25<25 75 225 275> 300 25<125 175> 375 25<125 175> 400 25<25 75 225 275> 475 25<25 75 225 275> 500 25<125 175> 575 25<125 175>
 VStem: 0 25<125 275 425 475> 75 25<125 275 425 475> 100 25<25 75 325 375 525 575> 175 25<25 75 325 375 525 575> 200 25<125 275 425 475> 275 25<125 275 425 475>
 LayerCount: 2
-Back
 Fore
 SplineSet
 0 500 m 1x82e9
@@ -5209,7 +5132,6 @@ Flags: W
 HStem: 0 25<25 175> 75 25<25 175> 100 25<225 275> 200 25<125 200> 275 25<125 200> 300 25<25 75> 475 25<25 75 225 275> 500 25<125 175> 575 25<125 175>
 VStem: 0 25<25 75 325 475> 75 25<325 475> 100 25<225 275 525 575> 175 25<25 75 525 575> 200 25<125 200 300 475> 275 25<125 475>
 LayerCount: 2
-Back
 Fore
 SplineSet
 200 500 m 1x99d6
@@ -5268,33 +5190,30 @@ StartChar: six
 Encoding: 54 54 90
 Width: 400
 VWidth: 0
-Flags: W
-HStem: 0 25<125 175> 75 25<125 175> 100 25<25 75 225 275> 275 25<225 275> 300 25<100 175> 375 25<100 175> 475 25<25 75> 500 25<125 275> 575 25<125 275>
-VStem: 0 25<125 475> 75 25<125 300 400 475> 100 25<25 75 525 575> 175 25<25 75 325 375> 200 25<125 275> 275 25<125 275 525 575>
+Flags: HW
 LayerCount: 2
-Back
 Fore
 SplineSet
-100 600 m 1x85d2
+100 600 m 1
  300 600 l 1
  300 500 l 1
  100 500 l 1
- 100 600 l 1x85d2
+ 100 600 l 1
 275 525 m 1
  275 575 l 1
  125 575 l 1
  125 525 l 1
  275 525 l 1
-100 400 m 1xade2
+100 400 m 1
  200 400 l 1
  200 300 l 1
- 100 300 l 1xade6
+ 100 300 l 1
  100 100 l 1
  0 100 l 1
  0 500 l 1
- 100 500 l 1xadd2
- 100 400 l 1xade2
-175 325 m 1xaeea
+ 100 500 l 1
+ 100 400 l 1
+175 325 m 1
  175 375 l 1
  75 375 l 1
  75 475 l 1
@@ -5302,52 +5221,17 @@ SplineSet
  25 125 l 1
  75 125 l 1
  75 325 l 1
- 175 325 l 1xaeea
-200 300 m 1xacc6
+ 175 325 l 1
+200 300 m 1
  300 300 l 1
  300 100 l 1
  200 100 l 1
- 200 300 l 1xacc6
+ 200 300 l 1
 275 125 m 1
  275 275 l 1
- 225 275 l 1xb4c6
+ 225 275 l 1
  225 125 l 1
  275 125 l 1
-100 100 m 1xa4d6
- 200 100 l 1
- 200 0 l 1
- 100 0 l 1
- 100 100 l 1xa4d6
-175 25 m 1xc4da
- 175 75 l 1
- 125 75 l 1
- 125 25 l 1
- 175 25 l 1xc4da
-EndSplineSet
-Validated: 5
-EndChar
-
-StartChar: colon
-Encoding: 58 58 91
-Width: 300
-VWidth: 0
-Flags: W
-HStem: 0 25<125 175> 75 25<125 175> 200 25<125 175> 275 25<125 175>
-VStem: 100 25<25 75 225 275> 175 25<25 75 225 275>
-LayerCount: 2
-Back
-Fore
-SplineSet
-100 300 m 1
- 200 300 l 1
- 200 200 l 1
- 100 200 l 1
- 100 300 l 1
-175 225 m 1
- 175 275 l 1
- 125 275 l 1
- 125 225 l 1
- 175 225 l 1
 100 100 m 1
  200 100 l 1
  200 0 l 1
@@ -5359,473 +5243,7 @@ SplineSet
  125 25 l 1
  175 25 l 1
 EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: semicolon
-Encoding: 59 59 92
-Width: 300
-VWidth: 0
-Flags: W
-HStem: -200 25<25 75> -125 25<25 75> -100 25<125 175> 75 25<125 175> 200 25<125 175> 275 25<125 175>
-VStem: 0 25<-175 -125> 75 25<-175 -125> 100 25<-75 75 225 275> 175 25<-75 75 225 275>
-LayerCount: 2
-Back
-Fore
-SplineSet
-100 100 m 1xbec0
- 200 100 l 1
- 200 -100 l 1
- 100 -100 l 1
- 100 100 l 1xbec0
-175 -75 m 1
- 175 75 l 1
- 125 75 l 1
- 125 -75 l 1
- 175 -75 l 1
-0 -200 m 1
- 0 -100 l 1
- 100 -100 l 1
- 100 -200 l 1
- 0 -200 l 1
-25 -125 m 1xdf40
- 25 -175 l 1
- 75 -175 l 1
- 75 -125 l 1
- 25 -125 l 1xdf40
-100 300 m 1x9ec0
- 200 300 l 1
- 200 200 l 1
- 100 200 l 1
- 100 300 l 1x9ec0
-175 225 m 1
- 175 275 l 1
- 125 275 l 1
- 125 225 l 1
- 175 225 l 1
-EndSplineSet
 Validated: 5
-EndChar
-
-StartChar: underscore
-Encoding: 95 95 93
-Width: 500
-VWidth: 0
-Flags: W
-HStem: -100 25<25 375> -25 25<25 375>
-VStem: 0 25<-75 -25> 375 25<-75 -25>
-LayerCount: 2
-Back
-Fore
-SplineSet
-0 0 m 5
- 400 0 l 5
- 400 -100 l 5
- 0 -100 l 5
- 0 0 l 5
-375 -75 m 5
- 375 -25 l 5
- 25 -25 l 5
- 25 -75 l 5
- 375 -75 l 5
-EndSplineSet
-Validated: 1
-EndChar
-
-StartChar: oe
-Encoding: 339 339 94
-Width: 600
-VWidth: 0
-Flags: W
-HStem: 0 25<125 175 325 475> 75 25<125 175 325 475> 100 25<25 75 225 275> 200 25<300 475> 275 25<25 75 225 300> 300 25<125 175> 375 25<125 175 325 475>
-VStem: 0 25<125 275> 75 25<125 275> 100 25<25 75 325 375> 175 25<25 75 325 375> 200 25<125 275> 275 25<125 200> 300 25<25 75 300 375> 475 25<25 75 225 375>
-LayerCount: 2
-Back
-Fore
-SplineSet
-100 300 m 1xb742
- 100 100 l 1
- 0 100 l 1
- 0 300 l 1
- 100 300 l 1xb742
-25 125 m 1
- 75 125 l 1
- 75 275 l 1
- 25 275 l 1xbb82
- 25 125 l 1
-200 300 m 1x9752
- 100 300 l 1
- 100 400 l 1
- 200 400 l 1
- 200 300 l 1x9752
-125 375 m 1
- 125 325 l 1
- 175 325 l 1
- 175 375 l 1x9762
- 125 375 l 1
-100 100 m 1xb352
- 200 100 l 1
- 200 0 l 1
- 100 0 l 1
- 100 100 l 1xb352
-175 25 m 1xd362
- 175 75 l 1
- 125 75 l 1
- 125 25 l 1
- 175 25 l 1xd362
-300 400 m 1x9b16
- 500 400 l 1
- 500 200 l 1
- 300 200 l 1x9b0a
- 300 100 l 1
- 200 100 l 1
- 200 300 l 1xb716
- 300 300 l 1
- 300 400 l 1x9b16
-475 225 m 1
- 475 375 l 1
- 325 375 l 1
- 325 275 l 1xbb06
- 225 275 l 1
- 225 125 l 1
- 275 125 l 1xbb1a
- 275 225 l 1
- 475 225 l 1
-300 0 m 1
- 300 100 l 1
- 500 100 l 1
- 500 0 l 1
- 300 0 l 1
-475 75 m 1xd306
- 325 75 l 1
- 325 25 l 1
- 475 25 l 1
- 475 75 l 1xd306
-EndSplineSet
-Validated: 5
-EndChar
-
-StartChar: ae
-Encoding: 230 230 95
-Width: 600
-VWidth: 0
-Flags: W
-HStem: 0 25<25 475> 75 25<300 475> 175 25<25 200> 200 25<300 475> 275 25<225 300> 300 25<125 175> 375 25<125 175 325 475>
-VStem: 0 25<25 175> 100 25<325 375> 175 25<325 375> 200 25<200 275> 275 25<100 200> 300 25<300 375> 475 25<25 75 225 375>
-LayerCount: 2
-Back
-Fore
-SplineSet
-200 400 m 1xc7a4
- 200 300 l 1
- 100 300 l 1
- 100 400 l 1
- 200 400 l 1xc7a4
-175 325 m 1xc7c4
- 175 375 l 1
- 125 375 l 1
- 125 325 l 1
- 175 325 l 1xc7c4
-300 400 m 1xcbac
- 500 400 l 1
- 500 200 l 1
- 300 200 l 1
- 300 100 l 1
- 500 100 l 1
- 500 0 l 1
- 0 0 l 1
- 0 200 l 1xdb94
- 200 200 l 1
- 200 300 l 1xe7b4
- 300 300 l 1
- 300 400 l 1xcbac
-475 225 m 1
- 475 375 l 1
- 325 375 l 1
- 325 275 l 1
- 225 275 l 1
- 225 175 l 1
- 25 175 l 1xebac
- 25 25 l 1
- 475 25 l 1
- 475 75 l 1
- 275 75 l 1
- 275 225 l 1
- 475 225 l 1
-EndSplineSet
-Validated: 5
-EndChar
-
-StartChar: Acircumflex
-Encoding: 194 194 96
-Width: 600
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-300 700 m 1
- 400 700 l 1
- 400 600 l 1
- 300 600 l 1
- 300 700 l 1
-375 625 m 1
- 375 675 l 1
- 325 675 l 1
- 325 625 l 1
- 375 625 l 1
-100 700 m 1
- 200 700 l 1
- 200 600 l 1
- 100 600 l 1
- 100 700 l 1
-175 625 m 1
- 175 675 l 1
- 125 675 l 1
- 125 625 l 1
- 175 625 l 1
-200 800 m 1
- 300 800 l 1
- 300 700 l 1
- 200 700 l 1
- 200 800 l 1
-275 725 m 1
- 275 775 l 1
- 225 775 l 1
- 225 725 l 1
- 275 725 l 1
-100 600 m 1
- 300 600 l 1
- 300 400 l 1
- 200 400 l 1
- 200 500 l 1
- 100 500 l 1
- 100 600 l 1
-275 425 m 1
- 275 575 l 1
- 125 575 l 1
- 125 525 l 1
- 225 525 l 1
- 225 425 l 1
- 275 425 l 1
-300 400 m 1
- 400 400 l 1
- 400 200 l 1
- 100 200 l 1
- 100 400 l 1
- 200 400 l 1
- 200 300 l 1
- 300 300 l 1
- 300 400 l 1
-375 225 m 1
- 375 375 l 1
- 325 375 l 1
- 325 275 l 1
- 175 275 l 1
- 175 375 l 1
- 125 375 l 1
- 125 225 l 1
- 375 225 l 1
-100 100 m 1
- 200 100 l 1
- 200 0 l 1
- 0 0 l 1
- 0 200 l 1
- 100 200 l 1
- 100 100 l 1
-175 25 m 1
- 175 75 l 1
- 75 75 l 1
- 75 175 l 1
- 25 175 l 1
- 25 25 l 1
- 175 25 l 1
-400 200 m 1
- 500 200 l 1
- 500 0 l 1
- 300 0 l 1
- 300 100 l 1
- 400 100 l 1
- 400 200 l 1
-475 25 m 1
- 475 175 l 1
- 425 175 l 1
- 425 75 l 1
- 325 75 l 1
- 325 25 l 1
- 475 25 l 1
-EndSplineSet
-EndChar
-
-StartChar: Ocircumflex
-Encoding: 212 212 97
-Width: 500
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-0 500 m 1
- 100 500 l 1
- 100 100 l 1
- 0 100 l 1
- 0 500 l 1
-75 125 m 1
- 75 475 l 1
- 25 475 l 1
- 25 125 l 1
- 75 125 l 1
-100 600 m 1
- 300 600 l 1
- 300 500 l 1
- 100 500 l 1
- 100 600 l 1
-275 525 m 1
- 275 575 l 1
- 125 575 l 1
- 125 525 l 1
- 275 525 l 1
-300 500 m 1
- 400 500 l 1
- 400 100 l 1
- 300 100 l 1
- 300 500 l 1
-375 125 m 1
- 375 475 l 1
- 325 475 l 1
- 325 125 l 1
- 375 125 l 1
-100 100 m 1
- 300 100 l 1
- 300 0 l 1
- 100 0 l 1
- 100 100 l 1
-275 25 m 1
- 275 75 l 1
- 125 75 l 1
- 125 25 l 1
- 275 25 l 1
-100 800 m 1
- 300 800 l 1
- 300 700 l 1
- 100 700 l 1
- 100 800 l 1
-275 725 m 1
- 275 775 l 1
- 125 775 l 1
- 125 725 l 1
- 275 725 l 1
-EndSplineSet
-EndChar
-
-StartChar: acircumflex
-Encoding: 226 226 98
-Width: 500
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-300 100 m 1
- 400 100 l 1
- 400 0 l 1
- 0 0 l 1
- 0 200 l 1
- 200 200 l 1
- 200 300 l 1
- 100 300 l 1
- 100 400 l 1
- 300 400 l 1
- 300 100 l 1
-375 25 m 1
- 375 75 l 1
- 275 75 l 1
- 275 375 l 1
- 125 375 l 1
- 125 325 l 1
- 225 325 l 1
- 225 175 l 1
- 25 175 l 1
- 25 25 l 1
- 375 25 l 1
-200 600 m 1
- 300 600 l 1
- 300 500 l 1
- 200 500 l 1
- 100 500 l 1
- 100 600 l 1
- 200 600 l 1
-125 525 m 1
- 275 525 l 1
- 275 575 l 1
- 125 575 l 1
- 125 525 l 1
-EndSplineSet
-EndChar
-
-StartChar: ocircumflex
-Encoding: 244 244 99
-Width: 500
-VWidth: 0
-Flags: HW
-LayerCount: 2
-Back
-Fore
-SplineSet
-0 300 m 1
- 100 300 l 1
- 100 100 l 1
- 0 100 l 1
- 0 300 l 1
-75 125 m 1
- 75 275 l 1
- 25 275 l 1
- 25 125 l 1
- 75 125 l 1
-300 400 m 1
- 300 300 l 1
- 100 300 l 1
- 100 400 l 1
- 300 400 l 1
-275 325 m 1
- 275 375 l 1
- 125 375 l 1
- 125 325 l 1
- 275 325 l 1
-300 300 m 1
- 400 300 l 1
- 400 100 l 1
- 300 100 l 1
- 300 300 l 1
-375 125 m 1
- 375 275 l 1
- 325 275 l 1
- 325 125 l 1
- 375 125 l 1
-100 0 m 1
- 100 100 l 1
- 300 100 l 1
- 300 0 l 1
- 100 0 l 1
-125 75 m 1
- 125 25 l 1
- 275 25 l 1
- 275 75 l 1
- 125 75 l 1
-100 600 m 1
- 300 600 l 1
- 300 500 l 1
- 100 500 l 1
- 100 600 l 1
-275 525 m 1
- 275 575 l 1
- 125 575 l 1
- 125 525 l 1
- 275 525 l 1
-EndSplineSet
 EndChar
 EndChars
 EndSplineFont
