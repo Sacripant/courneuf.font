@@ -3,10 +3,10 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Mode_Isolation" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" width="20px" height="36px" viewBox="0 0 20 36" enable-background="new 0 0 20 36" xml:space="preserve">
-<rect fill="none" width="20" height="36"/>
 <g>
-	<rect x="4" y="24" width="8" height="4"/>
-	<rect x="4" y="4" width="8" height="4"/>
-	<polygon points="4,12 4,16 0,16 0,24 4,24 4,20 12,20 12,12 	"/>
+	<path fill="#1A171B" d="M0,16v8h4v-8H0z M3,23H1v-6h2V23z M12,12H4v4h8V12z M11,15H5v-2h6V15z M12,16v8h4v-8H12z M15,23h-2v-6h2V23
+		z M4,28h8v-4H4V28z M5,25h6v2H5V25z"/>
+	<path d="M4,4v4h8V4H4z M11,7H5V5h6V7z"/>
 </g>
+<rect fill="none" width="20" height="36"/>
 </svg>

@@ -5,8 +5,10 @@
 	 y="0px" width="20px" height="36px" viewBox="0 0 20 36" enable-background="new 0 0 20 36" xml:space="preserve">
 <rect fill="none" width="20" height="36"/>
 <g>
-	<rect x="4" y="24" width="8" height="4"/>
+	<rect y="8" width="4" height="16"/>
 	<rect x="4" y="4" width="8" height="4"/>
-	<polygon points="4,12 4,16 0,16 0,24 4,24 4,20 12,20 12,12 	"/>
+	<rect x="12" y="8" width="4" height="16"/>
+	<rect x="4" y="24" width="8" height="4"/>
+	<rect x="4" y="-4" width="8" height="4"/>
 </g>
 </svg>
